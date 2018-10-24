@@ -1,5 +1,5 @@
 module.exports = {
-    port: 8080,
+    port: 5000,
     apiPath: '/api/v1',
     staticDir: '/static'
 };
